@@ -11,3 +11,7 @@ div#wall #tag-2 {
   left: 40px;
 }
 
+div#wall .parent #tag-4 {
+  width: 100px;
+  height: 400px;
+}
