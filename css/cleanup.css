@@ -16,3 +16,7 @@ div#wall .parent #tag-4 {
   width: 800px;
   height: 700px;
 }
+
+div#wall .parent div#tag-6 {
+  z-index: 9;
+}
