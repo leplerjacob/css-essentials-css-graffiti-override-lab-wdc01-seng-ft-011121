@@ -17,6 +17,6 @@ div#wall .parent #tag-4 {
   height: 700px;
 }
 
-div#wall div:nth-child(1) {
+div#wall div#tag-2 {
   z-index: 6;
 }
