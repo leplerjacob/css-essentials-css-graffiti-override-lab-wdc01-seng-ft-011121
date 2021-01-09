@@ -24,7 +24,7 @@ div#wall div#tag-2 {
   top: 290px;
 }
 
-div#wall .parent div#tag-5 .slick {
+div#wall .parent div#tag-5.slick {
   background: url(../images/tag-5.png) no-repeat;
 z-index: 30;
 display: block;
