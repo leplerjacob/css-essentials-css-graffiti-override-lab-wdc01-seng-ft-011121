@@ -1,5 +1,6 @@
 /* write your override styles here */
 
 div#wall .tag-1 {
-  position: static;
+  position: absolute;
+  z-index: 9;
 }
