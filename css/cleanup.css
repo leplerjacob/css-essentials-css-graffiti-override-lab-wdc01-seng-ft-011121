@@ -17,7 +17,7 @@ div#wall .parent #tag-4 {
   height: 700px;
 }
 
-div#wall .parent div#tag-6 {
+div#wall div.parent div#tag-6 {
   position: absolute;
   z-index: 12;
 }
